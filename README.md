@@ -15,6 +15,6 @@ Overall                    |  Languages
 ![GonnaFlyMethod's Stats](https://github-readme-stats.vercel.app/api?username=GonnaFlyMethod&show_icons=true)  |  ![GonnaFlyMethod's GitHub languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GonnaFlyMethod&layout=compact)
 
 
-Social                     |  Trophies
+CodeWars                   |  Trophies
 :-------------------------:|:-------------------------:
-[![Source Karma badge for @GonnaFlyMethod](https://sourcekarma-og.vercel.app/api/GonnaFlyMethod/github)](https://sourcekarma.vercel.app/GonnaFlyMethod)  |  ![Profile trophy of @GonnaFlyMethodFlyMethod](https://github-profile-trophy.vercel.app/?username=GonnaFlyMethod)
+[![Source Karma badge for @GonnaFlyMethod](https://www.codewars.com/users/GonnaFlyMethod/badges/large)  |  ![Profile trophy of @GonnaFlyMethodFlyMethod](https://github-profile-trophy.vercel.app/?username=GonnaFlyMethod)
