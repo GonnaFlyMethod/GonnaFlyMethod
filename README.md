@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**GonnaFlyMethod/GonnaFlyMethod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m student and I'm always ready to learn new things
+- 💬 Feel free to chat me any time!
+- 🎮 I like programming game engines, programming gameplay and I adore video games at all
+- 💆 I'm found of web programming
+- 📫 How to reach me:
+  - Email me: alexandergusakov@yahoo.com
+  - [Telegram me](https://t.me/GonnaFlyMethod)
+  - [Follow me on Codewars](https://www.codewars.com/users/GonnaFlyMethod/badges)
+  - [Add me on Linkedin](https://www.linkedin.com/in/alex-gusakov/)
 
-Here are some ideas to get you started:
+Overall                    |  Languages
+:-------------------------:|:-------------------------:
+![GonnaFlyMethod's Stats](https://github-readme-stats.vercel.app/api?username=GonnaFlyMethod&show_icons=true)  |  ![GonnaFlyMethod's GitHub languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GonnaFlyMethod&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Social                     |  Trophies
+:-------------------------:|:-------------------------:
+[![Source Karma badge for @GonnaFlyMethod](https://sourcekarma-og.vercel.app/api/GonnaFlyMethod/github)](https://sourcekarma.vercel.app/GonnaFlyMethod)  |  ![Profile trophy of @GonnaFlyMethodFlyMethod](https://github-profile-trophy.vercel.app/?username=GonnaFlyMethod)
