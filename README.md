@@ -17,4 +17,4 @@ Overall                    |  Languages
 
 CodeWars                   |  Trophies
 :-------------------------:|:-------------------------:
-[![Source Karma badge for @GonnaFlyMethod](https://www.codewars.com/users/GonnaFlyMethod/badges/large)  |  ![Profile trophy of @GonnaFlyMethodFlyMethod](https://github-profile-trophy.vercel.app/?username=GonnaFlyMethod)
+![CodeWars badge for GonnaFlyMethod](https://www.codewars.com/users/GonnaFlyMethod/badges/large)  |  ![Profile trophy of @GonnaFlyMethodFlyMethod](https://github-profile-trophy.vercel.app/?username=GonnaFlyMethod)
