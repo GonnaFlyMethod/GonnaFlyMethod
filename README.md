@@ -12,7 +12,7 @@
 
 Overall                    |  Languages
 :-------------------------:|:-------------------------:
-![GonnaFlyMethod's Stats](https://github-readme-stats.vercel.app/api?username=GonnaFlyMethod&show_icons=true)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GonnaFlyMethod&langs_count=8)](https://github.com/GonnaFlyMethod)
+![GonnaFlyMethod's Stats](https://github-readme-stats.vercel.app/api?username=GonnaFlyMethod&show_icons=true)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GonnaFlyMethod&langs_count=8&layout=compact)](https://github.com/GonnaFlyMethod)
 
 
 
