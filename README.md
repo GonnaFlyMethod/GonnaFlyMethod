@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m a student and I'm always ready to learn new things
+- 🔭 I'm always ready to learn new things
 - 🎮 I like programming game engines, programming gameplay and I adore video games at all
-- 💆 I'm found of web programming
+- 💆 I'm found of writing fast and reliable web applications
 - 💬 Feel free to chat me any time!
 - 📫 How to reach me:
   - Email me: alexandergusakov@yahoo.com
