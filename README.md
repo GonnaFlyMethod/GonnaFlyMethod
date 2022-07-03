@@ -7,8 +7,10 @@
 - 📫 How to reach me:
   - Email me: alexandergusakov@yahoo.com
   - [Telegram me](https://t.me/GonnaFlyMethod)
-  - [Follow me on Codewars](https://www.codewars.com/users/GonnaFlyMethod/)
   - [Add me on LinkedIn](https://www.linkedin.com/in/alex-gusakov/)
+- 👀 Follow me on:
+  - [Codewars](https://www.codewars.com/users/GonnaFlyMethod/)
+  - [Leetcode](https://leetcode.com/GonnaFlyMethod/)
 
 Overall                    |  Languages
 :-------------------------:|:-------------------------:
