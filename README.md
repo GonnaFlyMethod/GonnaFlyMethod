@@ -4,9 +4,11 @@
 - 🎮 I like programming game engines, programming gameplay and I adore video games at all
 - 💆 I'm found of writing fast and reliable web applications
 - 💬 Feel free to chat me any time!
+- ✍️ My tech blogs:
+  - [Hashnode](https://alexander-gusakov.hashnode.dev)
+  - [Medium](https://medium.com/@aliaksandr.tech)
 - 📫 How to reach me:
   - Email me: alexandergusakov@yahoo.com
-  - [Telegram me](https://t.me/GonnaFlyMethod)
   - [Add me on LinkedIn](https://www.linkedin.com/in/alex-gusakov/)
 - 👀 Follow me on:
   - [Codewars](https://www.codewars.com/users/GonnaFlyMethod/)
