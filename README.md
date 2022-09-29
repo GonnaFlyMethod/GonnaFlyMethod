@@ -3,12 +3,12 @@
 - 🔭 I'm always ready to learn new things
 - 💆 I'm found of writing fast and reliable services
 - 💬 Feel free to chat me any time!
-- ✍️ My tech blogs:
-  - [Hashnode](https://alexander-gusakov.hashnode.dev)
-  - [Medium](https://medium.com/@aliaksandr.tech)
 - 📫 How to reach me:
   - Email me: alexandergusakov@yahoo.com
   - [Add me on LinkedIn](https://www.linkedin.com/in/alex-gusakov/)
+- ✍️ My tech blogs:
+  - [Hashnode](https://alexander-gusakov.hashnode.dev)
+  - [Medium](https://medium.com/@aliaksandr.tech)
 - 👀 Follow me on:
   - [Codewars](https://www.codewars.com/users/GonnaFlyMethod/)
   - [Leetcode](https://leetcode.com/GonnaFlyMethod/)
