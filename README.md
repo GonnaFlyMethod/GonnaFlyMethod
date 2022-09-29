@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm always ready to learn new things
-- 🎮 I like programming game engines, programming gameplay and I adore video games at all
-- 💆 I'm found of writing fast and reliable web applications
+- 💆 I'm found of writing fast and reliable services
 - 💬 Feel free to chat me any time!
 - ✍️ My tech blogs:
   - [Hashnode](https://alexander-gusakov.hashnode.dev)
