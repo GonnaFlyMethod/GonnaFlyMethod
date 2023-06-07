@@ -7,7 +7,7 @@
   - Email me: alex.husakou@gmail.com
   - [Add me on LinkedIn](https://www.linkedin.com/in/aliaksandr-husakou/)
 - ✍️ My tech blog:
-  - [Medium](https://medium.com/@aliaksandr.tech)
+  - [Medium](https://medium.com/@alex.husakou)
 - 👀 Follow me on:
   - [Codewars](https://www.codewars.com/users/GonnaFlyMethod/)
   - [Leetcode](https://leetcode.com/GonnaFlyMethod/)
