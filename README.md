@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I'm always ready to learn new things
-- 🔴🟢🔵 I adore to deal with graphics
+- 🔴🟢🔵 I adore to develop game engines
 - 🎮 I like to make videogames
-- 💻 I'm found of writing fast and reliable services
 - 💬 Feel free to chat me any time!
 - 📫 How to reach me:
   - Email me: alex.husakou@gmail.com
