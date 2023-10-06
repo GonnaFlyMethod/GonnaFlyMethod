@@ -9,5 +9,5 @@ ____
 - 🎮 I like to make videogames
 - 💬 Feel free to chat me any time!
 - 📫 Additional ways to reach me:
-  - Email me: alex.husakou@gmail.com || graphics.cpp@gmail.com
+  - Email me: alex.husakou@gmail.com
   - Discord:  @gonnaflymethod
