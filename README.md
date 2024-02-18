@@ -10,6 +10,7 @@ Additionally, I'm a fan of Frontend development, DevOps practices, Machine Learn
 - 🐋 Docker, Docker compose, K8S
 - 🔭 I'm always ready to learn new things
 - 💻 Looking forward to collaborate with other developers
+- 💡 [Leetcode](https://leetcode.com/GonnaFlyMethod/), [Codewars](https://www.codewars.com/users/GonnaFlyMethod)
 - 💬 Feel free to chat me any time!
 - 📫 Additional ways to reach me:
 	* Email me: alex.husakou@gmail.com
