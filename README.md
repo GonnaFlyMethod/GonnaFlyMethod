@@ -15,6 +15,7 @@ Additionally, I'm a fan of Frontend development, DevOps practices, Machine Learn
 - Email me: alex.husakou@gmail.com
 - Discord:  @gonnaflymethod
 
+____
 <div align="center">
 	<img width="90" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
 	<img width="90" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
