@@ -12,8 +12,8 @@ Additionally, I'm a fan of Frontend development, DevOps practices, Machine Learn
 - 💻 Looking forward to collaborate with other developers
 - 💬 Feel free to chat me any time!
 - 📫 Additional ways to reach me:
-- Email me: alex.husakou@gmail.com
-- Discord:  @gonnaflymethod
+	* Email me: alex.husakou@gmail.com
+	* Discord:  @gonnaflymethod
 
 ____
 <div align="center">
