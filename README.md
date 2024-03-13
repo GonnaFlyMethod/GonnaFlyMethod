@@ -11,7 +11,7 @@ Additionally, I love computer graphics(graphics API, rendering in general), vide
 - 🔭 I'm always ready to learn new things
 - 💻 Looking forward to collaborate with other developers
 - 💡 [Leetcode](https://leetcode.com/GonnaFlyMethod/), [Codewars](https://www.codewars.com/users/GonnaFlyMethod)
-- 💬 Feel free to chat me any time!
+- 💬 Feel free to chat with me!
 - 📫 Additional ways to reach me:
 	* Email me: alex.husakou@gmail.com
 	* Discord:  @gonnaflymethod
