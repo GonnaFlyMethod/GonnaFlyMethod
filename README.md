@@ -6,7 +6,7 @@ ____
 I love to build backend systems that bring real value and make life of other people easier.
 Additionally, I love computer graphics(graphics API, rendering in general), videogames development, frontend development, DevOps practices, machine learning,  and hardware.
 
-- ❤️ Currently working with Python, Go, Rust, Javascript and Bash
+- ❤️ Currently working with Python, Go, Rust, C++ and Bash
 - 🐋 Docker, Docker compose, K8S
 - 🔭 I'm always ready to learn new things
 - 💻 Looking forward to collaborate with other developers
